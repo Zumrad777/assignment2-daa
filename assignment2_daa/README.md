@@ -53,3 +53,5 @@ This will print execution time, comparisons, and swaps for each input size and g
 
 **Zumrad Sherbadalova**
 Student A — Shell Sort
+<img width="1908" height="736" alt="image" src="https://github.com/user-attachments/assets/fb7f6b5f-27c1-472f-8412-aa0eaff5b95b" />
+
